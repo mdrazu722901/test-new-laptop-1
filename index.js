@@ -31,5 +31,6 @@ for(var i = 0; i < singleWord.length; i++){
     var finalWork = words[0].toUpperCase()+words.substr(1)
     console.log(finalWork)
 }
+//properly push my code in github
 
 
